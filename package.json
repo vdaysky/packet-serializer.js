@@ -1,0 +1,12 @@
+{
+  "name": "jps",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "packet serializer/deserializer for javascript ",
+  "main": "serializer.js",
+  "scripts": {
+    "test": "node src/serializer.js"
+  },
+  "author": "vdaysky",
+  "license": "ISC"
+}
